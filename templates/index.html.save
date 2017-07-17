@@ -1,6 +1,5 @@
 <html>
 <head>
-<link href="static/mycss.css"/>
 <title>Richard Aka Ninja </title>
 </head>
  <body>
@@ -8,8 +7,8 @@
         <h3> my name is : Richard T. Lawer aka the Ninja himself</h3>
         <h3> I live at Odumase-Krobo</h3>
         <h3> I am a teacher</h3>
-        <h3> I like banku and pepper a lot.. hahahaha no joke..ooo</h3>
-<a href="http://www.divinerevelations.info/documents/jesus_pictures/jesus_004.jpg"> <img src="http://www.divinerevelations.info/documents/jesus_pictures/jesus_004.jpg"   width="100px" ; height = "100px"></a>
+        <h3> I like banku and pepper a lot.. hahahaha no joke..ooo</h3>>     
+ <a href="" ><img src=http://www.divinerevelations.info/documents/jesus_pictures/jesus_004.jpg"http://www.divinerevelations.info/documents/jesus_pictures/jesus_004.jpg"   width="1000px" ; height = "100px"></a>
         <a href="https://github.com/richardtlawer" > Richard Teye Lawer </a>
      <ol>
        <li>Sam</li>
@@ -25,6 +24,6 @@
 <a href="www.google.com"><li>Google</li></a>
 <a href="http://www.healthylifegh.com/"><li>Healthylifegh</li></a>
   </ul>
-<div class="my-margin">
+
   </body>
 </html>
