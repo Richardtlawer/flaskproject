@@ -6,6 +6,10 @@ def index():
      return render_template("index.html")
 
 
+@app.route('/python')
+def python():
+    return render_template("python1.html")
+
 
 @app.route('/linus')
 def linux1():
@@ -26,9 +30,9 @@ if __name__ == '__main__':
  #  return render_template("linux1.html")
 
 
-@app.route('/name')
-def send_from(name):
-     return send_fcdrom_directory("index.thml",name)
+#@app.route('/name')
+#def send_from(name):
+#     return send_fcdrom_directory("index.thml",name)
 
 
 
