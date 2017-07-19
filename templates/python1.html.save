@@ -1,0 +1,28 @@
+<html>
+<head>
+ <title>Python Website for Python Ninjas</title>
+</head>
+
+<body>
+ <h1> By KING Richard your only ninja<h1>
+
+<ol>
+ <li> list of python syntax examples onClick="jQuery.ajax('/btn')                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         </li>
+ <li>python ,,, on command prompt for REPL </li>
+ <li> REPL ,,, read evaluate print looop</li>
+ <li>print "hello",,,,displays  hello </li>
+ <li>( ) ,,, for Tuple</li>
+ <li>{} ,,,, for bdictionary </li>
+ <li>[ ] ,,,list</li>
+ <li>range(start, end, step) .... for ranges</li>
+ <li><p>for i in range(,,);
+       print i </p>   </li>
+ <li> <p>def funname():
+       return</P>  </li>
+ <li> import filenam  <li>
+ <li>raw_input("key somethin")</>
+ <li>type(tpye) </li>
+</ol>
+</body>
+</html>
+
